@@ -1,0 +1,2 @@
+[node_servers]
+192.255.247.10   ansible_connection=ssh        ansible_user=vagrant
